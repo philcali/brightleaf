@@ -1,0 +1,1 @@
+dim array[5]
